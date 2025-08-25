@@ -87,7 +87,7 @@
 
 ## PROJECTS
 
-### 🛒 JAVA-MARCHAT ( OracleSQL, JSP ) 
+### 🛒 JAVA-MARKET ( OracleSQL, JSP ) 
 - JSP 기반의 홈쇼핑 사이트
 - **[🌐 JAVA-MARCHAT PPT 바로가기](https://docs.google.com/presentation/d/1ir6cdoqqAdqrQxFi2KZ70a-32yo7cTOFFff4Hqnj9LE/edit?usp=sharing)**
 > OracleSQL TABLE 작성, 이미지 업로드, 전체 레이아웃, 로그인, 회원가입, 장바구니, 구매, PPT 작성
