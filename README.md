@@ -107,7 +107,7 @@
 
 ### 📦 MyHome ( PostgreSQL, NextJS, Supabase ) 
 - Nexon, lostArk, x(twitter)등, instagram 외 API를 연결하여, 개인 웹사이트
-- **[🌐 MyHome PPT 바로가기]()**
+- **[🌐 MyHome 문서 바로가기]()**
 > 제작중
 
 
