@@ -92,7 +92,7 @@
 
 ### 🎵 MusicShare ( MySQL, SpringBoot / React, Flutter ) 
 - React + SpringBoot(MySQL) MySQL 기반의 지역 기반 커뮤니티 사이트
-- **[🌐 MusicShare PPT 바로가기](https://docs.google.com/presentation/d/15wqRm3tmIuotjyaPodgUVXgtVZMOpVvcCa01lTzituI/edit?usp=sharing)**
+- **[🌐 MusicShare PPT 바로가기](https://docs.google.com/presentation/d/1qF-VFww1ggozeEBRSYD2sO2cZnSSmJZlJ4X1F7FQ5u0/edit?usp=sharing)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅( 이미지, 음악 검색), 이미지(WEBP) 변환 및 저장, 로그인, 회원가입, 음악(DEZER) API, 뷰어 구현( Fluter), PPT 작성
 
 ### 🌐 BJW-INFO ( React, NextJS )
