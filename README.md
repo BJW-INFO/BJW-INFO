@@ -95,7 +95,7 @@
 - **[🌐 MusicShare PPT 바로가기](https://docs.google.com/presentation/d/1qF-VFww1ggozeEBRSYD2sO2cZnSSmJZlJ4X1F7FQ5u0/edit?usp=sharing)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅( 이미지, 음악 검색), 이미지(WEBP) 변환 및 저장, 로그인, 회원가입, 음악(DEZER) API, 뷰어 구현( Fluter), PPT 작성
 
-### 🌐 BJW-INFO ( React, NextJS )
+### 🌐 BJW-INFO ( NextJS )
 - **[🌐 BJW-INFO 바로가기](https://bjw-info.github.io/)**
 - React + NextJS 를 활용한 자기소개 페이지
 > 서버 사이드 렌더링을 경험 및 활용, 컴포넌트 재활용을 중점으로 구현
@@ -104,5 +104,10 @@
 - 크롤링을 이용한 배대지 자동화 프로그램
 - **[🌐 Chapssaltteak 사용 문서 바로가기](https://docs.google.com/document/d/1IFPjt8nA_-7-Z8Z7VVrs2ypkEus9CS362W9SQDFAvUI/edit?tab=t.0#heading=h.o99x1ikvd1ai)**
 > 크롤링, CROS에러 우회
+
+### 📦 MyHome ( PostgreSQL, NextJS, Supabase ) 
+- Nexon, lostArk, x(twitter)등, instagram 외 API를 연결하여, 개인 웹사이트
+- **[🌐 MyHome PPT 바로가기]()**
+> 제작중
 
 
