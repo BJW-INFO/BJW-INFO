@@ -88,7 +88,7 @@
 
 ### 🐝 OhSaengkul ( PostgreSQL, Supabase / React ) 
 - React + Supabese 기반의 지역 기반 커뮤니티 사이트
-- **[🌐 OhSaengkul PPT 바로가기(https://docs.google.com/presentation/d/15wqRm3tmIuotjyaPodgUVXgtVZMOpVvcCa01lTzituI/edit?usp=sharing)**
+- **[🌐 OhSaengkul PPT 바로가기](https://docs.google.com/presentation/d/15wqRm3tmIuotjyaPodgUVXgtVZMOpVvcCa01lTzituI/edit?usp=sharing)**
 - **[🌐 OhSaengkul GITHUB 바로가기](https://github.com/thejoeunthird-admin/thejoeunthird-admin.github.io)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅 ( 이미지, 위치 ), 이미지(WEBP) 변환 및 저장, 위치 데이터 ( KakaoMap 활용 ), 로그인, 회원가입,
 > 채팅, 구매&판매, 구매&판매 기록, PPT 작성
