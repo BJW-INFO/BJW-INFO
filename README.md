@@ -3,7 +3,8 @@
 ![Unity](https://img.shields.io/badge/Unity-2023.1.0-black?style=for-the-badge&logo=unity&logoColor=white)
 
 **[🌐 입사 지원서 바로가기](https://docs.google.com/document/d/1ApeSl5bhbt7A35x82E17YHV9Kz2hZp6JJZEc8RFQGds/edit?usp=sharing)**
-**[🌐 자기소개 페이 바로가기](https://bjw-info.github.io/)**
+
+**[🌐 자기소개 페이지 바로가기](https://bjw-info.github.io/)**
 
 
 # 🙌 문제를 해결하는 개발자를 목표로 하는 **백종욱**입니다.
