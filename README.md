@@ -3,6 +3,8 @@
 ![Unity](https://img.shields.io/badge/Unity-2023.1.0-black?style=for-the-badge&logo=unity&logoColor=white)
 
 **[🌐 입사 지원서 바로가기](https://docs.google.com/document/d/1ApeSl5bhbt7A35x82E17YHV9Kz2hZp6JJZEc8RFQGds/edit?usp=sharing)*
+**[🌐 자기소개 페이 바로가기](https://bjw-info.github.io/)*
+
 
 # 🙌 문제를 해결하는 개발자를 목표로 하는 **백종욱**입니다.
 > **"불가능하다"** 는 말은 **"아직 방법을 찾지 못했다"** 는 뜻일 뿐입니다.  
@@ -86,23 +88,28 @@
 
 ### 🐝 OhSaengkul ( PostgreSQL, Supabase / React ) 
 - React + Supabese 기반의 지역 기반 커뮤니티 사이트
-- **[🌐 OhSaengkul PPT 바로가기](https://docs.google.com/presentation/d/15wqRm3tmIuotjyaPodgUVXgtVZMOpVvcCa01lTzituI/edit?usp=sharing)**
+- **[🌐 OhSaengkul PPT 바로가기(https://docs.google.com/presentation/d/15wqRm3tmIuotjyaPodgUVXgtVZMOpVvcCa01lTzituI/edit?usp=sharing)**
+- **[🌐 OhSaengkul GITHUB 바로가기](https://github.com/thejoeunthird-admin/thejoeunthird-admin.github.io)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅 ( 이미지, 위치 ), 이미지(WEBP) 변환 및 저장, 위치 데이터 ( KakaoMap 활용 ), 로그인, 회원가입,
 > 채팅, 구매&판매, 구매&판매 기록, PPT 작성
 
 ### 🎵 MusicShare ( MySQL, SpringBoot / React, Flutter ) 
 - React + SpringBoot(MySQL) MySQL 기반의 지역 기반 커뮤니티 사이트
 - **[🌐 MusicShare PPT 바로가기](https://docs.google.com/presentation/d/1qF-VFww1ggozeEBRSYD2sO2cZnSSmJZlJ4X1F7FQ5u0/edit?usp=sharing)**
+- **[🌐 MusicShare GITHUB 바로가기](https://github.com/theJE-project)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅( 이미지, 음악 검색), 이미지(WEBP) 변환 및 저장, 로그인, 회원가입, 음악(DEZER) API, 뷰어 구현( Fluter), PPT 작성
 
 ### 🌐 BJW-INFO ( NextJS )
 - **[🌐 BJW-INFO 바로가기](https://bjw-info.github.io/)**
+- **[🌐 BJW-INFO GITHUB 바로가기](https://github.com/BJW-INFO/BJW-INFO.github.io)**
 - React + NextJS 를 활용한 자기소개 페이지
 > 서버 사이드 렌더링을 경험 및 활용, 컴포넌트 재활용을 중점으로 구현
+> Firebase Studio 를 사용하여 AI 코딩 및 클라우드 코딩 활용
 
 ### 📦 Chapssaltteak ( Html ) 
-- 크롤링을 이용한 배대지 자동화 프로그램
 - **[🌐 Chapssaltteak 사용 문서 바로가기](https://docs.google.com/document/d/1IFPjt8nA_-7-Z8Z7VVrs2ypkEus9CS362W9SQDFAvUI/edit?tab=t.0#heading=h.o99x1ikvd1ai)**
+- **[🌐 Chapssaltteak GITHUB 바로가기](https://github.com/chapssaltteak/chapssaltteak.github.io)**
+- 크롤링을 이용한 배대지 자동화 프로그램
 > 크롤링, CROS에러 우회
 
 ### 📦 MyHome ( PostgreSQL, NextJS, Supabase ) 
