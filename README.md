@@ -4,9 +4,6 @@
 
 **[🌐 입사 지원서 바로가기](https://docs.google.com/document/d/1ApeSl5bhbt7A35x82E17YHV9Kz2hZp6JJZEc8RFQGds/edit?usp=sharing)**
 
-**[🌐 자기소개 페이지 바로가기](https://bjw-info.github.io/)**
-
-
 # 🙌 문제를 해결하는 개발자를 목표로 하는 **백종욱**입니다.
 > **"불가능하다"** 는 말은 **"아직 방법을 찾지 못했다"** 는 뜻일 뿐입니다.  
 > 어제보다 나은 코드를 작성하기 위해 매일 한 걸음씩 나아가며,  
@@ -100,22 +97,15 @@
 - **[🌐 MusicShare GITHUB 바로가기](https://github.com/theJE-project)**
 > TABLE 작성, 전체 레이아웃, 커스텀훅( 이미지, 음악 검색), 이미지(WEBP) 변환 및 저장, 로그인, 회원가입, 음악(DEZER) API, 뷰어 구현( Fluter), PPT 작성
 
-### 🌐 BJW-INFO ( NextJS )
-- **[🌐 BJW-INFO 바로가기](https://bjw-info.github.io/)**
-- **[🌐 BJW-INFO GITHUB 바로가기](https://github.com/BJW-INFO/BJW-INFO.github.io)**
-- React + NextJS 를 활용한 자기소개 페이지
-> 서버 사이드 렌더링을 경험 및 활용, 컴포넌트 재활용을 중점으로 구현
-> Firebase Studio 를 사용하여 AI 코딩 및 클라우드 코딩 활용
-
 ### 📦 Chapssaltteak ( Html ) 
 - **[🌐 Chapssaltteak 사용 문서 바로가기](https://docs.google.com/document/d/1IFPjt8nA_-7-Z8Z7VVrs2ypkEus9CS362W9SQDFAvUI/edit?tab=t.0#heading=h.o99x1ikvd1ai)**
 - **[🌐 Chapssaltteak GITHUB 바로가기](https://github.com/chapssaltteak/chapssaltteak.github.io)**
 - 크롤링을 이용한 배대지 자동화 프로그램
 > 크롤링, CROS에러 우회
 
-### 📦 MyHome ( PostgreSQL, NextJS, Supabase ) 
-- Nexon, lostArk, x(twitter)등, instagram 외 API를 연결하여, 개인 웹사이트
-- **[🌐 MyHome 문서 바로가기](https://docs.google.com/document/d/1D3MtXSI8J-iYDj7nA-kKZX_i8dUA5BFMQCmhdm6SAGI/edit?usp=sharing)**
-> 제작중
+### 📦 NexaPay ( PostgreSQL, NextJS, Supabase ) 
+- Crypto와 KYC 인증으로 안전 결제 ( 거래 ) 시스템 사이트
+- **[🌐 NexaPay 홈페이지 바로가기](https://www.nexapayone.com/)**
+> 제작중 ( 백엔드 개발, 프론트 개발 )
 
 
