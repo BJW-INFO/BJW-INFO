@@ -2,7 +2,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-2023.1.0-black?style=for-the-badge&logo=unity&logoColor=white)
 
-**[🌐 입사 지원서 바로가기](https://drive.google.com/file/d/1Z3rDoVu8wP4ybDKM8OsnDVUIIZeyJxMG/view?usp=sharing)**
+**[🌐 입사 지원서 바로가기](https://drive.google.com/file/d/1GtwVSSMOn3bEkUQ3laDUpl3JqjjZ7MXi/view?usp=sharing)**
 
 # 🙌 문제를 해결하는 개발자를 목표로 하는 **백종욱**입니다.
 > **"불가능하다"** 는 말은 **"아직 방법을 찾지 못했다"** 는 뜻일 뿐입니다.  
